@@ -1,8 +1,8 @@
-version: 1.0.17
+version: 1.0.18
 files:
-  - url: POS Cash Till Setup 1.0.17.exe
-    sha512: gKlV4KGt8h6PsIASA0L3j+caeWvReqRM5cmUkVkyj8mAoU5zFa9djPbrYV9TmASOK0s4FZuTe7u9uOZy9oKhuw==
-    size: 100907209
-path: POS Cash Till Setup 1.0.17.exe
-sha512: gKlV4KGt8h6PsIASA0L3j+caeWvReqRM5cmUkVkyj8mAoU5zFa9djPbrYV9TmASOK0s4FZuTe7u9uOZy9oKhuw==
-releaseDate: '2026-11-25T11:12:46.986Z'
+  - url: POS Cash Till Setup 1.0.18.exe
+    sha512: VpCLCiNRP4NvfZq0kK7w+P7MRM96chHwNUwwvF9ClJng4y0rndoNdaWA9k8QJ0fLtYDZJFKqjuBrzt4Jd+5QRA==
+    size: 100910344
+path: POS Cash Till Setup 1.0.18.exe
+sha512: VpCLCiNRP4NvfZq0kK7w+P7MRM96chHwNUwwvF9ClJng4y0rndoNdaWA9k8QJ0fLtYDZJFKqjuBrzt4Jd+5QRA==
+releaseDate: '2026-11-26T12:55:50.258Z'
